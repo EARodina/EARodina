@@ -1,10 +1,7 @@
 <h2> Hi 👋 I'm Elena</h2>
 
 #### 💻 &nbsp; About Me :
-I am a Frontend developer from Russia.
-
-#### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earodina&layout=compact)](https://github.com/earodina/github-readme-stats)
+I’m a Frontend developer and HTML coder with 5 experience in creating responsive and cross-browser web interfaces. My tech stack includes HTML, CSS, JavaScript, Vue.js.
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -19,3 +16,6 @@ I am a Frontend developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" **alt="ViteJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="40" height="40"/>
 </div>
+
+#### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earodina&layout=compact)](https://github.com/earodina/github-readme-stats)
